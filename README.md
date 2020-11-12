@@ -1,8 +1,8 @@
-# VagrantMachinesL
-Ferramenta CLI para automação das máquinas da IES
-### Instalação
-VagrantMachinesL requer [Python3](https://www.python.org/) ou superior para executar.
-### Uso
+# Vagrant Machines Automation Tool
+CLI to streamline work with virtual machines
+### Installation
+VagrantMachinesL requires [Python3](https://www.python.org/) or above to run.
+### Usage
 ```
-python llvmat.py <comando> <máquina>
+python llvmat.py <command> <virtual machine>
 ```
