@@ -4,5 +4,5 @@ Ferramenta CLI para automação das máquinas da IES
 VagrantMachinesL requer [Python3](https://www.python.org/) ou superior para executar.
 ### Uso
 ```
-python vagrantMachinesL.py <comando> <máquina>
+python llvmat.py <comando> <máquina>
 ```
